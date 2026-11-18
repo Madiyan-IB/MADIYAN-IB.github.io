@@ -3,7 +3,7 @@
    Never put API keys, tokens, or secrets in a static portfolio. */
 window.PORTFOLIO_CONFIG = {
   "githubUrl": "",
-  "profilePhoto": "",
+  "profilePhoto": "assets/profile-photo.jpg",
   "projects": {
     "task-nest": {
       "repositoryUrl": "",
